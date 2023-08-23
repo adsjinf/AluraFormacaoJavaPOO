@@ -1,4 +1,4 @@
-**## Formação em Java Orientado a Objetos na Alura
+## Formação em Java Orientado a Objetos na Alura
 <div style="sisplay: inline_block">
     <img align="center" alt="MySql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
     <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -18,4 +18,3 @@ A orientação prática da Alura e sua abordagem hands-on têm permitido que eu 
 
 Esta formação está me capacitando não apenas com as habilidades técnicas essenciais, mas também com a mentalidade necessária para enfrentar os desafios complexos do desenvolvimento Java orientado a objetos. Estou confiante de que, ao concluir esta formação, estarei preparado para contribuir de maneira mais significativa e eficaz para projetos de software robustos e de alta qualidade.
 </h5>
-**
